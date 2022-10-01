@@ -13,6 +13,7 @@ public class fizzBuzz {
         else if(inputNumber%3==0)
             System.out.println("Fizz");
 
+
         else if(inputNumber%5==0)
             System.out.println("Buzz");
 
